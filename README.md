@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Passionate web developer on a continuous learning journey. Currently tackling #100DaysOfDSA, solving daily LeetCode challenges to boost my problem-solving skills. Recently built a Wordle clone (wordl-five.vercel.app) to apply my knowledge in a fun project.<br><br>Comfortable with React, Firebase, and MERN stack for creating web apps. Enjoy turning complex problems into simple, beautiful solutions. Always excited to learn new technologies and push my coding limits.<br><br>My goal? To become a better programmer every day. Whether it's mastering algorithms, building projects, or exploring new tech, I'm all in. Let's connect and grow together in this amazing world of code!
 
 # 📊 GitHub Stats:
